@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ##########################################
-# xmrig-PLUGandPLAY (enWILLYado version) #
+# web browser #
 ##########################################
 
 PKG_MANAGER=$( command -v yum || command -v apt-get ) || echo "Neither yum nor apt-get found. Exit!"
